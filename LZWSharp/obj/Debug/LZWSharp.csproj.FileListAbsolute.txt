@@ -1,0 +1,20 @@
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\bin\Debug\LZWSharp.exe
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\bin\Debug\LZWSharp.pdb
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\bin\Debug\LZWLib.dll
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\bin\Debug\LZWLib.pdb
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\obj\Debug\LZWSharp.csprojResolveAssemblyReference.cache
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\obj\Debug\LZWSharp.Form1.resources
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\obj\Debug\LZWSharp.Properties.Resources.resources
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\obj\Debug\LZWSharp.csproj.GenerateResource.Cache
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\obj\Debug\LZWSharp.exe
+c:\users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWSharp\obj\Debug\LZWSharp.pdb
+H:\Кодування\LZWSharp\LZWSharp\obj\Debug\LZWSharp.exe
+H:\Кодування\LZWSharp\LZWSharp\obj\Debug\LZWSharp.pdb
+H:\Кодування\LZWSharp\LZWSharp\bin\Debug\LZWSharp.exe
+H:\Кодування\LZWSharp\LZWSharp\bin\Debug\LZWSharp.pdb
+H:\Кодування\LZWSharp\LZWSharp\bin\Debug\LZWLib.dll
+H:\Кодування\LZWSharp\LZWSharp\bin\Debug\LZWLib.pdb
+H:\Кодування\LZWSharp\LZWSharp\obj\Debug\LZWSharp.csprojResolveAssemblyReference.cache
+H:\Кодування\LZWSharp\LZWSharp\obj\Debug\LZWSharp.Form1.resources
+H:\Кодування\LZWSharp\LZWSharp\obj\Debug\LZWSharp.Properties.Resources.resources
+H:\Кодування\LZWSharp\LZWSharp\obj\Debug\LZWSharp.csproj.GenerateResource.Cache

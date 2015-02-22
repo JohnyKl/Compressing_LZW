@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LZWSharp", "LZWSharp\LZWSharp.csproj", "{0CB19C48-440E-441C-AE70-BAF2B9B4C73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LZWLib", "LZWLib\LZWLib.csproj", "{3575C55E-DE89-4043-9202-DA1C157467AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB19C48-440E-441C-AE70-BAF2B9B4C73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB19C48-440E-441C-AE70-BAF2B9B4C73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB19C48-440E-441C-AE70-BAF2B9B4C73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB19C48-440E-441C-AE70-BAF2B9B4C73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3575C55E-DE89-4043-9202-DA1C157467AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3575C55E-DE89-4043-9202-DA1C157467AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3575C55E-DE89-4043-9202-DA1C157467AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3575C55E-DE89-4043-9202-DA1C157467AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

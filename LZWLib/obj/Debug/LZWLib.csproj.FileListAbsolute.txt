@@ -1,0 +1,10 @@
+c:\Users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWLib\bin\Debug\LZWLib.dll
+c:\Users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWLib\bin\Debug\LZWLib.pdb
+c:\Users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWLib\obj\Debug\LZWLib.csprojResolveAssemblyReference.cache
+c:\Users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWLib\obj\Debug\LZWLib.dll
+c:\Users\basik_000\documents\visual studio 2013\Projects\Forum\LZWSharp\LZWLib\obj\Debug\LZWLib.pdb
+H:\Кодування\LZWSharp\LZWLib\bin\Debug\LZWLib.dll
+H:\Кодування\LZWSharp\LZWLib\bin\Debug\LZWLib.pdb
+H:\Кодування\LZWSharp\LZWLib\obj\Debug\LZWLib.csprojResolveAssemblyReference.cache
+H:\Кодування\LZWSharp\LZWLib\obj\Debug\LZWLib.dll
+H:\Кодування\LZWSharp\LZWLib\obj\Debug\LZWLib.pdb
